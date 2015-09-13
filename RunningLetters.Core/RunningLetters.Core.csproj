@@ -40,6 +40,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Letter.cs" />
+    <Compile Include="LetterDto.cs" />
+    <Compile Include="LetterManager.cs" />
+    <Compile Include="LetterWithDirection.cs" />
+    <Compile Include="Locker.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

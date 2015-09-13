@@ -52,6 +52,8 @@
   <ItemGroup>
     <Compile Include="TestLetter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestLetterManager.cs" />
+    <Compile Include="UnitTest1.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\RunningLetters.Core\RunningLetters.Core.csproj">
